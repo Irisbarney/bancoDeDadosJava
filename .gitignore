@@ -1,0 +1,11 @@
+# Ignorar arquivos do Eclipse
+*.classpath
+*.project
+.settings/
+
+# Ignorar pasta de build
+/bin/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
